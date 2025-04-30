@@ -5,11 +5,9 @@ Gestion des élèves (ajout, modification, suppression, consultation)
 
 Gestion des enseignants et des matières enseignées
 
-Création et gestion des classes et emplois du temps
+Création et gestion des emplois du temps
 
-Enregistrement des inscriptions et suivi académique
-
-Interface utilisateur conviviale en mode console (ou Swing si interface graphique)
+Enregistrement des notes et gestion des cours
 
 ## Technologies utilisées :
 
