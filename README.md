@@ -1,4 +1,4 @@
-# School Manage
+# School Manager
 School Manager est une application de bureau développée en Java qui permet de gérer efficacement les différentes opérations administratives d’un établissement scolaire. Le projet vise à simplifier la gestion des élèves, des enseignants, des cours et des inscriptions à travers une interface claire et structurée.
 ## Fonctionnalités principales :
 Gestion des élèves (ajout, modification, suppression, consultation)
